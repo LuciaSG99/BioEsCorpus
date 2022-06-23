@@ -1,0 +1,14 @@
+T1	Síntoma 335 341	fiebre
+T2	Medicamento 462 484	antisépticos urinarios
+T3	Sigla 1336 1339	TAC
+T4	Sigla 1444 1447	TAC
+T5	Enfermedad 1689 1702	endometriosis
+T6	Enfermedad 937 950	endometriosis
+T7	Enfermedad 2346 2359	endometriosis
+T8	Sigla 1929 1932	RTU
+T9	Medicamento 2405 2422	análogos de LH-RH
+T10	Enfermedad 29 44	hernia de hiato
+R1	Cura Arg1:T9 Arg2:T7
+R2	Cura Arg1:T9 Arg2:T5
+R3	Cura Arg1:T9 Arg2:T6
+R4	Alivia Arg1:T2 Arg2:T6

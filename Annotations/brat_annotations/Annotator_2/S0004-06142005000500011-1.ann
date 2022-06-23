@@ -1,0 +1,13 @@
+T1	Enfermedad 207 230	enfermedad de Dupuytren
+T2	Enfermedad 280 305	Diabetes Mellitus tipo II
+T3	Enfermedad 307 326	hipercolesterolemia
+T4	Signo 329 342	hiperuricemia
+T5	Enfermedad 685 715	adenoma de próstata grado I/IV
+T6	Proteína 968 971	PSA
+T7	Alias 1387 1390	UIV
+T8	Enfermedad 1907 1948	carcinoma urotelial superficial de vejiga
+T9	Sigla 1735 1737	TC
+T10	Signo 444 480	hematuria macroscópica postmiccional
+T11	Signo 498 524	microhematuria persistente
+T12	Lípido 907 920	triglicéridos
+T13	Signo 1260 1286	quistes corticales simples

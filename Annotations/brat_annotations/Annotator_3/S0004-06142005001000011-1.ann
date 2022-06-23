@@ -1,0 +1,41 @@
+T1	Sigla 145 148	IRC
+T2	Enfermedad 173 199	glomerulonefritis tipo IgA
+T3	Proteína 196 199	IgA
+T4	Enfermedad 204 214	esclerosis
+T5	Enfermedad 298 319	hipertensión arterial
+T6	Enfermedad 373 394	cardiopatía isquémica
+T7	Enfermedad 399 419	enfermedad coronaria
+T8	Enfermedad 556 574	dislipemia tipo II
+T9	Medicamento 885 897	ciclosporina
+T10	Medicamento 965 977	ciclosporina
+T11	Medicamento 986 1007	micofenolato mofetilo
+T12	Medicamento 1019 1029	prednisona
+T13	Signo 1234 1243	temblores
+T14	Signo 1409 1420	parestesias
+T15	Sigla 1455 1459	EEII
+T16	Signo 1463 1472	temblores
+T17	Sigla 1594 1598	EEII
+T18	Sigla 1626 1629	ROT
+T19	Sigla 1663 1666	RCP
+T20	Sigla 1808 1811	LCR
+T21	Sigla 1963 1968	ELISA
+T22	Sigla 2012 2015	PCR
+T23	Sigla 1715 1718	RMN
+T24	Sigla 2057 2060	LCR
+T25	Sigla 2103 2106	PCR
+T26	Enfermedad 2175 2205	paraparesia espástica tropical
+T27	Sigla 2207 2210	TSP
+T28	Medicamento 2246 2266	6-Metil-Prednisolona
+T30	Proteína 2480 2490	creatinina
+T31	Enfermedad 2047 2053	HTLV-I
+T32	Medicamento 2329 2339	Interferón
+T33	Enfermedad 2743 2759	litiasis vesical
+T34	Enfermedad 591 614	criptorquídia bilateral
+T36	Enfermedad 849 856	rechazo
+R1	Cura Arg1:T10 Arg2:T36
+R2	Cura Arg1:T11 Arg2:T36
+R3	Cura Arg1:T12 Arg2:T36
+R4	Cura Arg1:T9 Arg2:T36
+R5	Refiere_a Arg1:T27 Arg2:T26
+R6	Cura Arg1:T28 Arg2:T26
+R7	Cura Arg1:T32 Arg2:T26

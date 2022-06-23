@@ -1,0 +1,13 @@
+T3	Enfermedad 652 669	lesión neoplásica
+T4	Enfermedad 779 791	ADK próstata
+T5	Síntoma 380 468	lesión hipointensa que abarca zona central i periférica del ápex del lóbulo D prostático
+T7	Síntoma 380 398	lesión hipointensa
+T8	Proteína 294 297	PSA
+T9	Proteína 84 87	PSA
+R1	Implicado_en Arg1:T9 Arg2:T4
+R2	Implicado_en Arg1:T5 Arg2:T4
+R3	Implicado_en Arg1:T7 Arg2:T4
+R4	Implicado_en Arg1:T9 Arg2:T3
+R5	Implicado_en Arg1:T5 Arg2:T3
+R6	Implicado_en Arg1:T7 Arg2:T3
+R7	Implicado_en Arg1:T4 Arg2:T3

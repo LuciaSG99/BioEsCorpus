@@ -1,0 +1,40 @@
+T1	Enfermedad 54 85	hipertrofia benigna de próstata
+T2	Signo 109 147	hematuria monosintomática autolimitada
+T3	Signo 109 118	hematuria
+T4	Signo 208 240	ureteropielocaliectasia grado II
+T5	Signo 208 231	ureteropielocaliectasia
+T6	Sigla 263 269	U.I.V.
+T7	Signo 282 318	anulación funcional de riñón derecho
+T8	Sigla 461 467	U.I.V.
+T9	Alias 568 571	HTA
+T10	Enfermedad 573 598	Diabetes Mellitus tipo II
+T11	Enfermedad 600 627	Miocardiopatía hipertrófica
+T12	Enfermedad 629 662	Aneurisma carotídeo intracerebral
+T13	Signo 772 780	megalias
+T14	Enfermedad 885 899	HBP grado I-II
+T15	Proteína 994 1004	Creatinina
+T16	Enfermedad 1096 1131	carcinoma de células transicionales
+T17	Signo 1196 1217	Defecto de replección
+T18	Proteína 1387 1397	Creatinina
+T19	Enfermedad 1444 1474	Aneurisma de Aorta infrarrenal
+T20	Signo 1476 1507	Atrofia hidronefrótica de riñón
+T21	Enfermedad 1582 1607	adenopatías paravesicales
+T22	Enfermedad 1647 1670	tumor de vías de uréter
+T23	Enfermedad 1871 1892	pielonefritis crónica
+T24	Enfermedad 1906 1922	arteriosclerosis
+T25	Enfermedad 1933 1961	lesión inflamatoria ureteral
+T26	Signo 1986 2010	infiltrado de linfocitos
+T27	Signo 2032 2051	erosión de urotelio
+T28	Proteína 2158 2168	Creatinina
+T29	something 2208 2211	HBP
+R1	Implicado_en Arg1:T2 Arg2:T1
+R2	Implicado_en Arg1:T3 Arg2:T1
+R3	Implicado_en Arg1:T9 Arg2:T12
+R4	Implicado_en Arg1:T13 Arg2:T14
+R5	Implicado_en Arg1:T15 Arg2:T14
+R6	Implicado_en Arg1:T9 Arg2:T24
+R7	Implicado_en Arg1:T28 Arg2:T29
+R8	Implicado_en Arg1:T26 Arg2:T25
+R9	Implicado_en Arg1:T26 Arg2:T23
+R10	Implicado_en Arg1:T26 Arg2:T24
+R11	Implicado_en Arg1:T27 Arg2:T25

@@ -1,0 +1,33 @@
+T1	Síntoma 78 102	dolores osteoarticulares
+T2	Síntoma 147 153	fiebre
+T3	Enfermedad 360 368	brucella
+T4	Enfermedad 486 496	brucelosis
+T5	Síntoma 534 549	síndrome febril
+T6	Sigla 706 709	T.A
+T7	Sigla 695 697	Tª
+T8	Sigla 724 726	Fc
+T9	Enfermedad 869 880	adenopatías
+T10	Signo 885 890	bocio
+T11	Abreviatura 1723 1727	TTPA
+T12	Glúcido 1750 1757	Glucosa
+T13	Enfermedad 1769 1773	urea
+T14	Proteína 1842 1845	GOT
+T15	Proteína 1854 1857	GPT
+T16	Proteína 1866 1869	GGT
+T17	Proteína 1878 1896	fosfatasa alcalina
+T18	Enfermedad 2009 2017	Brucella
+T19	Sigla 1682 1685	VSG
+T20	Proteína 1784 1794	creatinina
+T21	Enfermedad 607 615	Brucella
+T22	Enfermedad 2048 2056	Brucella
+T23	Enfermedad 2568 2576	Brucella
+T24	Sigla 2194 2197	TAC
+T25	Alias 2163 2165	Rx
+T26	Medicamento 2614 2626	antitérmicos
+T27	Medicamento 2628 2645	antiinflamatorios
+T28	Medicamento 2723 2734	Doxiciclina
+T29	Medicamento 2787 2801	Estreptomicina
+R1	Alivia Arg1:T28 Arg2:T23
+R2	Alivia Arg1:T29 Arg2:T23
+R3	Alivia Arg1:T27 Arg2:T23
+R4	Alivia Arg1:T26 Arg2:T23

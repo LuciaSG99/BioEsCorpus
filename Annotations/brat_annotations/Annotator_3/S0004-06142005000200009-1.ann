@@ -1,0 +1,7 @@
+T1	Enfermedad 779 791	ADK próstata
+T2	Proteína 84 87	PSA
+T3	Proteína 294 297	PSA
+T4	Signo 652 669	lesión neoplásica
+R1	Implicado_en Arg1:T2 Arg2:T1
+R2	Implicado_en Arg1:T3 Arg2:T1
+R3	Implicado_en Arg1:T4 Arg2:T1

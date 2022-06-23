@@ -1,0 +1,29 @@
+T1	Enfermedad 55 73	síndrome depresivo
+T2	Enfermedad 76 87	prostatismo
+T3	Enfermedad 143 161	carcinoma de colon
+T4	Enfermedad 364 374	tumoración
+T5	Enfermedad 412 435	adenocarcinoma de colon
+T6	Proteína 785 796	hemoglobina
+T7	Proteína 806 816	creatinina
+T8	Proteína 873 876	PSA
+T9	Proteína 896 924	Antígeno Carcino Embrionario
+T10	Sigla 926 929	CEA
+T11	Sigla 960 963	TAC
+T12	Enfermedad 1038 1056	carcinoma de colon
+T13	Enfermedad 1070 1081	adenopatías
+T14	Enfermedad 1165 1201	lesiones crónicas fibrocicatriciales
+T15	Enfermedad 1398 1416	lesión heterogénea
+T16	Enfermedad 1659 1669	tumoración
+T17	Enfermedad 1737 1747	tumoración
+T18	Enfermedad 2071 2085	lesión nodular
+T19	Enfermedad 2521 2535	adenocarcinoma
+T20	Enfermedad 2791 2801	tumoración
+T21	Enfermedad 2875 2885	tumoración
+T22	Enfermedad 3047 3057	metástasis
+T23	Enfermedad 3064 3078	adenocarcinoma
+T24	Enfermedad 3166 3176	tumoración
+T25	Sigla 3452 3455	TAC
+T26	Sigla 3574 3577	CEA
+T27	Sigla 3641 3644	TAC
+T28	Enfermedad 3649 3678	adenopatías retroperitoneales
+R1	Refiere_a Arg1:T10 Arg2:T9

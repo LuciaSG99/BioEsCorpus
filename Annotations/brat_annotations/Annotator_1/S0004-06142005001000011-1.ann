@@ -1,0 +1,49 @@
+T1	Sigla 145 148	IRC
+T2	Enfermedad 173 199	glomerulonefritis tipo IgA
+T3	Proteína 196 199	IgA
+T4	Enfermedad 173 190	glomerulonefritis
+T5	Signo 204 220	esclerosis focal
+T6	Signo 204 214	esclerosis
+T7	Signo 298 319	hipertensión arterial
+T8	Enfermedad 373 394	cardiopatía isquémica
+T9	Enfermedad 399 419	enfermedad coronaria
+T10	Enfermedad 556 574	dislipemia tipo II
+T11	Enfermedad 556 566	dislipemia
+T12	Enfermedad 591 604	criptorquídia
+T13	Medicamento 885 897	ciclosporina
+T14	Medicamento 965 977	ciclosporina
+T15	Medicamento 986 1007	micofenolato mofetilo
+T16	Medicamento 1019 1029	prednisona
+T17	Síntoma 1206 1231	inestabilidad a la marcha
+T18	Síntoma 1234 1256	temblores en las manos
+T19	Síntoma 1381 1407	inestabilidad de la marcha
+T20	Síntoma 1409 1420	parestesias
+T21	Abreviatura 1455 1459	EEII
+T22	Síntoma 1543 1573	disminución de la sensibilidad
+T23	Sigla 1626 1629	ROT
+T24	Sigla 1663 1666	RCP
+T25	Síntoma 1600 1624	reflejos osteotendinosos
+T26	Síntoma 1639 1661	reflejo cutaneoplantar
+T27	Sigla 1715 1718	RMN
+T28	Sigla 1808 1811	LCR
+T29	Signo 1820 1844	pleocitosis linfocitaria
+T30	Sigla 2012 2015	PCR
+T31	Sigla 2047 2053	HTLV-I
+T32	Sigla 2057 2060	LCR
+T33	Enfermedad 2175 2205	paraparesia espástica tropical
+T34	Sigla 2207 2210	TSP
+T35	Medicamento 2246 2266	6-Metil-Prednisolona
+T36	Proteína 2329 2339	Interferón
+T37	Proteína 2480 2490	creatinina
+T38	Signo 2710 2731	vejiga hiperrefléxica
+T39	Enfermedad 2743 2759	litiasis vesical
+R1	Implicado_en Arg1:T17 Arg2:T33
+R2	Implicado_en Arg1:T20 Arg2:T33
+R3	Implicado_en Arg1:T22 Arg2:T33
+R4	Implicado_en Arg1:T25 Arg2:T33
+R5	Implicado_en Arg1:T26 Arg2:T33
+R6	Implicado_en Arg1:T29 Arg2:T33
+R7	Implicado_en Arg1:T31 Arg2:T33
+R8	Alivia Arg1:T35 Arg2:T33
+R9	Alivia Arg1:T36 Arg2:T33
+R10	Refiere_a Arg1:T34 Arg2:T33

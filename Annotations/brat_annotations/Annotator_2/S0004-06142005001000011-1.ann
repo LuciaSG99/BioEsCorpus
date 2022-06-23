@@ -1,0 +1,38 @@
+T1	Enfermedad 145 170	IRC progresiva secundaria
+T2	Sigla 145 148	IRC
+T3	Enfermedad 173 220	glomerulonefritis tipo IgA con esclerosis focal
+T4	Enfermedad 298 319	hipertensión arterial
+T5	Enfermedad 373 394	cardiopatía isquémica
+T6	Enfermedad 556 574	dislipemia tipo II
+T7	Medicamento 885 897	ciclosporina
+T8	Medicamento 965 977	ciclosporina
+T9	Medicamento 986 1007	micofenolato mofetilo
+T10	Medicamento 1019 1029	prednisona
+T11	Síntoma 1234 1243	temblores
+T12	Síntoma 1206 1231	inestabilidad a la marcha
+T13	Síntoma 1409 1420	parestesias
+T14	Abreviatura 1455 1459	EEII
+T15	Síntoma 1463 1472	temblores
+T16	Abreviatura 1594 1598	EEII
+T17	Sigla 1626 1629	ROT
+T18	Sigla 1663 1666	RCP
+T19	Signo 1600 1624	reflejos osteotendinosos
+T20	Signo 1639 1661	reflejo cutaneoplantar
+T21	Abreviatura 1715 1718	RMN
+T23	Abreviatura 1808 1811	LCR
+T24	Enfermedad 1820 1844	pleocitosis linfocitaria
+T25	Abreviatura 2012 2015	PCR
+T26	Abreviatura 2057 2060	LCR
+T27	Abreviatura 2103 2106	PCR
+T28	Enfermedad 2175 2205	paraparesia espástica tropical
+T29	Abreviatura 2207 2210	TSP
+T30	Medicamento 2246 2266	6-Metil-Prednisolona
+T31	Medicamento 2329 2339	Interferón
+T32	Proteína 2480 2490	creatinina
+T33	Signo 2710 2731	vejiga hiperrefléxica
+T34	Signo 2743 2759	litiasis vesical
+T35	Enfermedad 591 614	criptorquídia bilateral
+R1	Alivia Arg1:T30 Arg2:T28
+R2	Refiere_a Arg1:T29 Arg2:T28
+R3	Refiere_a Arg1:T17 Arg2:T19
+R4	Refiere_a Arg1:T18 Arg2:T20

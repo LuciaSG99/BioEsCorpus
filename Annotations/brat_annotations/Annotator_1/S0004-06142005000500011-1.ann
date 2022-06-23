@@ -1,0 +1,30 @@
+T1	Enfermedad 50 58	alergias
+T2	Enfermedad 158 179	fracturas vertebrales
+T3	Enfermedad 207 230	enfermedad de Dupuytren
+T4	Enfermedad 280 305	Diabetes Mellitus tipo II
+T5	Enfermedad 307 326	hipercolesterolemia
+T6	Enfermedad 329 342	hiperuricemia
+T7	Enfermedad 280 288	Diabetes
+T8	Enfermedad 344 359	enolismo activo
+T9	Signo 444 480	hematuria macroscópica postmiccional
+T10	Signo 444 453	hematuria
+T11	Signo 498 512	microhematuria
+T12	Enfermedad 685 715	adenoma de próstata grado I/IV
+T13	Enfermedad 685 704	adenoma de próstata
+T14	Signo 1097 1136	cambios degenerativos en columna lumbar
+T15	Signo 1139 1165	calcificaciones vasculares
+T16	Signo 1260 1286	quistes corticales simples
+T17	Sigla 1387 1390	UIV
+T18	Signo 1438 1453	calcificaciones
+T19	Signo 1585 1614	pseudodiverticulosis ureteral
+T20	Sigla 1735 1737	TC
+T21	Signo 1809 1831	tumoraciones vesicales
+T22	Enfermedad 1907 1948	carcinoma urotelial superficial de vejiga
+T23	Enfermedad 1907 1916	carcinoma
+R1	Implicado_en Arg1:T5 Arg2:T7
+R2	Implicado_en Arg1:T9 Arg2:T22
+R3	Implicado_en Arg1:T10 Arg2:T22
+R4	Implicado_en Arg1:T11 Arg2:T22
+R5	Implicado_en Arg1:T21 Arg2:T22
+R6	Implicado_en Arg1:T21 Arg2:T23
+R7	Implicado_en Arg1:T19 Arg2:T21

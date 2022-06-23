@@ -1,0 +1,9 @@
+T1	Enfermedad 588 608	tumor paratesticular
+T2	Enfermedad 896 923	rabdomiosarcoma pleomórfico
+T3	Medicamento 1093 1104	adriamicina
+T4	Medicamento 1107 1117	ifosfamida
+T5	Medicamento 1120 1125	MESNA
+R1	Cura Arg1:T3 Arg2:T2
+R2	Cura Arg1:T4 Arg2:T2
+R3	Cura Arg1:T5 Arg2:T2
+R4	Interacciona_con Arg1:T5 Arg2:T4

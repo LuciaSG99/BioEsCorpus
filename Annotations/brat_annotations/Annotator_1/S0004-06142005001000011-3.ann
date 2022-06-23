@@ -1,0 +1,37 @@
+T1	Enfermedad 163 180	cirrosis hepática
+T2	Sigla 234 237	HDA
+T3	Enfermedad 251 269	varices esofágicas
+T4	Enfermedad 295 314	hipertensión portal
+T5	Enfermedad 317 324	ascitis
+T6	Enfermedad 366 381	hepatocarcinoma
+T7	Medicamento 506 516	tacrolimus
+T8	Síntoma 584 616	debilidad de miembros inferiores
+T9	Síntoma 619 642	pérdida de sensibilidad
+T10	Síntoma 700 710	paraplejia
+T11	Signo 787 798	paraparesia
+T12	Signo 803 814	amioatrofia
+T13	Sigla 829 833	EEII
+T14	Sigla 866 869	EID
+T15	Sigla 976 979	ROT
+T16	Sigla 942 945	EID
+T17	Sigla 1040 1043	RCP
+T18	Signo 1149 1177	afectación de cordón medular
+T19	Signo 1214 1262	lesiones hiperintensa lagunares supratentoriales
+T20	Sigla 1385 1389	PEES
+T21	Sigla 1435 1438	LCR
+T22	Sigla 1541 1546	ELISA
+T23	Sigla 1575 1581	HTLV-I
+T24	Sigla 1470 1476	HTLV-I
+T25	Enfermedad 1627 1657	paraparesia espástica tropical
+T26	Proteína 1672 1682	Interferón
+T27	Sigla 1759 1763	EEII
+T28	Proteína 1854 1867	transaminasas
+R1	Implicado_en Arg1:T8 Arg2:T25
+R2	Implicado_en Arg1:T9 Arg2:T25
+R3	Implicado_en Arg1:T10 Arg2:T25
+R4	Implicado_en Arg1:T11 Arg2:T25
+R5	Implicado_en Arg1:T12 Arg2:T25
+R6	Implicado_en Arg1:T18 Arg2:T25
+R7	Implicado_en Arg1:T19 Arg2:T25
+R8	Implicado_en Arg1:T24 Arg2:T25
+R9	Cura Arg1:T26 Arg2:T25

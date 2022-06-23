@@ -1,0 +1,16 @@
+T1	Enfermedad 37 51	ulcus duodenal
+T2	Síntoma 54 67	estreñimiento
+T3	Enfermedad 128 147	crisis renoureteral
+T4	Enfermedad 168 181	nefrolitiasis
+T5	Síntoma 185 194	hematuria
+T6	Enfermedad 198 229	infecciones del tracto urinario
+T7	Signo 266 285	puñopercusión renal
+T8	Signo 326 347	ectasia pielocalicial
+T9	Sigla 400 403	UIV
+T10	Signo 540 575	estenosis en la unión pieloureteral
+T11	Enfermedad 995 1015	hemangioma cavernoso
+T12	Signo 1036 1047	obstrucción
+R1	Implicado_en Arg1:T7 Arg2:T11
+R2	Implicado_en Arg1:T8 Arg2:T11
+R3	Implicado_en Arg1:T10 Arg2:T11
+R4	Implicado_en Arg1:T12 Arg2:T11

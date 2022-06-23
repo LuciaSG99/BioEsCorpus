@@ -1,0 +1,22 @@
+T1	Enfermedad 208 240	ureteropielocaliectasia grado II
+T2	Alias 263 269	U.I.V.
+T4	Alias 461 467	U.I.V.
+T5	Abreviatura 568 571	HTA
+T6	Enfermedad 573 598	Diabetes Mellitus tipo II
+T7	Enfermedad 600 627	Miocardiopatía hipertrófica
+T8	Enfermedad 629 662	Aneurisma carotídeo intracerebral
+T9	Abreviatura 885 888	HBP
+T10	Proteína 994 1004	Creatinina
+T11	Enfermedad 1096 1131	carcinoma de células transicionales
+T13	Proteína 2158 2168	Creatinina
+T14	Proteína 1387 1397	Creatinina
+T15	Sigla 1422 1425	TAC
+T16	Enfermedad 1444 1474	Aneurisma de Aorta infrarrenal
+T17	Enfermedad 1906 1922	arteriosclerosis
+T18	Signo 109 147	hematuria monosintomática autolimitada
+T19	Enfermedad 1871 1892	pielonefritis crónica
+T20	Abreviatura 2208 2211	HBP
+T21	Signo 1476 1498	Atrofia hidronefrótica
+T22	Signo 54 85	hipertrofia benigna de próstata
+R1	Refiere_a Arg1:T9 Arg2:T22
+R2	Refiere_a Arg1:T20 Arg2:T22

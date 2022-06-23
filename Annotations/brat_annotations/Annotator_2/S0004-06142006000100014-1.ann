@@ -1,0 +1,23 @@
+T1	Enfermedad 97 120	adenocarcinoma gástrico
+T2	Enfermedad 140 161	hipertensión arterial
+T3	Medicamento 181 196	espironolactona
+T4	Enfermedad 312 320	anorexia
+T5	Signo 377 395	anemia hipocrómica
+T6	Síntoma 398 411	estreñimiento
+T7	Enfermedad 586 609	adenocarcinoma gástrico
+T8	Síntoma 654 667	estreñimiento
+T9	Signo 673 679	anemia
+T10	Enfermedad 723 730	ascitis
+T11	Sigla 912 915	VCM
+T12	Alias 922 925	RDW
+T13	Enfermedad 930 933	VSG
+T14	Sigla 943 946	PCR
+T15	Proteína 952 955	PSA
+T16	Proteína 967 977	creatinina
+T17	Signo 1090 1109	pólipo inflamatorio
+T18	Sigla 1923 1926	TAC
+T19	Enfermedad 2269 2290	hidronefrosis gigante
+T20	Enfermedad 2304 2334	uropatía obstructiva litiásica
+T21	Signo 2901 2930	atrofia parenquimatosa severa
+T22	Signo 2862 2898	dilatación del sistema pielocalicial
+R1	Cura Arg1:T3 Arg2:T2

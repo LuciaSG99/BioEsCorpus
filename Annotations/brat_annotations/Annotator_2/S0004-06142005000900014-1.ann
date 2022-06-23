@@ -1,0 +1,9 @@
+T1	Síntoma 67 78	polaquiuria
+T2	Síntoma 80 97	escozor miccional
+T3	Síntoma 99 106	tenesmo
+T5	Sigla 714 717	RTU
+T6	Enfermedad 789 806	leiomioma vesical
+T7	Proteína 1104 1110	actina
+T8	Abreviatura 604 612	A.I.N.E.
+T9	Medicamento 604 611	A.I.N.E
+R1	Alivia Arg1:T9 Arg2:T6

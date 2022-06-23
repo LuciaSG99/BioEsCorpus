@@ -1,0 +1,34 @@
+T1	Enfermedad 71 83	gastrectomía
+T3	Enfermedad 140 161	hipertensión arterial
+T4	Enfermedad 97 120	adenocarcinoma gástrico
+T5	Medicamento 181 196	espironolactona
+T6	Enfermedad 312 320	anorexia
+T7	Enfermedad 377 395	anemia hipocrómica
+T8	Síntoma 398 411	estreñimiento
+T9	Enfermedad 459 469	tumoración
+T10	Enfermedad 586 609	adenocarcinoma gástrico
+T11	Síntoma 654 667	estreñimiento
+T12	Enfermedad 673 679	anemia
+T13	Signo 723 730	ascitis
+T14	Enfermedad 735 749	carcinomatosis
+T15	Enfermedad 784 794	tumoración
+T16	Enfermedad 774 781	tumoral
+T17	Proteína 842 853	hemoglobina
+T18	Sigla 912 915	VCM
+T19	Sigla 922 925	RDW
+T20	Sigla 930 933	VSG
+T21	Proteína 943 946	PCR
+T22	Proteína 952 955	PSA
+T23	Proteína 967 977	creatinina
+T24	Enfermedad 1146 1162	recidiva tumoral
+T25	Enfermedad 1335 1354	tumoración quística
+T26	Sigla 1923 1926	TAC
+T27	Enfermedad 2269 2290	hidronefrosis gigante
+T28	Enfermedad 2146 2166	riñón hidronefrótico
+T29	Enfermedad 2304 2324	uropatía obstructiva
+T30	Enfermedad 2589 2600	adenopatías
+T31	Enfermedad 2732 2752	tumoración urotelial
+T32	Enfermedad 2901 2923	atrofia parenquimatosa
+T33	Enfermedad 3271 3280	carcinoma
+T34	Enfermedad 3377 3387	metástasis
+R1	Implicado_en Arg1:T17 Arg2:T12

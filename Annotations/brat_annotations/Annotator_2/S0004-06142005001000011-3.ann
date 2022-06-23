@@ -1,0 +1,30 @@
+T1	Enfermedad 163 180	cirrosis hepática
+T2	Sigla 234 237	HDA
+T3	Signo 317 324	ascitis
+T4	Signo 295 314	hipertensión portal
+T5	Enfermedad 366 381	hepatocarcinoma
+T6	Medicamento 506 516	tacrolimus
+T7	Abreviatura 829 833	EEII
+T8	Abreviatura 866 869	EID
+T9	Abreviatura 942 945	EID
+T10	Abreviatura 976 979	ROT
+T11	Abreviatura 1040 1043	RCP
+T12	Abreviatura 1135 1138	RMN
+T13	Abreviatura 1385 1389	PEES
+T14	Abreviatura 1435 1438	LCR
+T15	Alias 1541 1546	ELISA
+T16	Alias 1470 1476	HTLV-I
+T17	Alias 1575 1581	HTLV-I
+T18	Enfermedad 1627 1657	paraparesia espástica tropical
+T19	Medicamento 1672 1684	Interferón-á
+T20	Abreviatura 1759 1763	EEII
+T21	Proteína 1854 1867	transaminasas
+T22	Signo 251 278	varices esofágicas grado II
+T23	Síntoma 584 616	debilidad de miembros inferiores
+T24	Síntoma 619 642	pérdida de sensibilidad
+R1	Implicado_en Arg1:T3 Arg2:T1
+R2	Implicado_en Arg1:T4 Arg2:T1
+R3	Alivia Arg1:T6 Arg2:T5
+R4	Implicado_en Arg1:T23 Arg2:T18
+R5	Implicado_en Arg1:T24 Arg2:T18
+R6	Alivia Arg1:T19 Arg2:T18

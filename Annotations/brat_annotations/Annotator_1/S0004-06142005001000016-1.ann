@@ -1,0 +1,11 @@
+T1	Enfermedad 39 72	síndrome obstructivo infravesical
+T2	Enfermedad 87 97	tumoración
+T3	Signo 230 272	bolsa escrotal derecha aumentada de tamaño
+T4	Enfermedad 282 297	hernia inguinal
+T5	Proteína 470 473	PSA
+T6	Enfermedad 632 650	herniación vesical
+T7	Enfermedad 721 735	hernia vesical
+T8	Sigla 981 984	RTU
+R1	Implicado_en Arg1:T5 Arg2:T2
+R2	Implicado_en Arg1:T3 Arg2:T6
+R3	Refiere_a Arg1:T6 Arg2:T7

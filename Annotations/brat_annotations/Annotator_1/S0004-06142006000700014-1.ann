@@ -1,0 +1,38 @@
+T1	Enfermedad 55 73	síndrome depresivo
+T2	Enfermedad 76 87	prostatismo
+T3	Enfermedad 143 173	carcinoma de colon descendente
+T4	Enfermedad 412 435	adenocarcinoma de colon
+T5	Proteína 785 796	hemoglobina
+T6	Proteína 806 816	creatinina
+T7	Proteína 873 876	PSA
+T8	Proteína 896 924	Antígeno Carcino Embrionario
+T9	Sigla 926 929	CEA
+T10	Sigla 960 963	TAC
+T11	Signo 997 1022	masa en colon descendente
+T12	Signo 1070 1099	adenopatías retroperitoneales
+T13	Signo 1165 1201	lesiones crónicas fibrocicatriciales
+T14	Signo 1281 1302	masa nodular dolorosa
+T15	Signo 1398 1416	lesión heterogénea
+T16	Signo 2071 2085	lesión nodular
+T17	Enfermedad 2521 2535	adenocarcinoma
+T18	Signo 2967 3002	neoformaciones epiteliales malignas
+T19	Signo 3047 3057	metástasis
+T20	Medicamento 3387 3400	quimioterapia
+T21	Sigla 3452 3455	TAC
+T22	Signo 3546 3577	elevación significativa del CEA
+T23	Sigla 3574 3577	CEA
+T24	Signo 3649 3678	adenopatías retroperitoneales
+T25	Signo 3704 3722	nódulos pulmonares
+T26	Signo 3728 3763	engrosamiento de la pared del colon
+T27	Signo 3996 4018	implantes mesentéricos
+T28	Sigla 3641 3644	TAC
+R1	Implicado_en Arg1:T3 Arg2:T4
+R2	Implicado_en Arg1:T8 Arg2:T4
+R3	Implicado_en Arg1:T9 Arg2:T4
+R4	Implicado_en Arg1:T11 Arg2:T4
+R5	Implicado_en Arg1:T15 Arg2:T17
+R6	Implicado_en Arg1:T16 Arg2:T17
+R7	Implicado_en Arg1:T14 Arg2:T17
+R8	Implicado_en Arg1:T18 Arg2:T17
+R9	Cura Arg1:T20 Arg2:T17
+R10	Implicado_en Arg1:T22 Arg2:T4

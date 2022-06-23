@@ -1,0 +1,13 @@
+T1	Síntoma 106 113	disuria
+T2	Síntoma 131 143	uretrorragia
+T3	Signo 613 631	defecto de llenado
+T4	Signo 759 779	tumoración polipoide
+T5	Enfermedad 932 969	papiloma invertido de uretra anterior
+T6	Enfermedad 932 940	papiloma
+T7	Síntoma 1054 1061	disuria
+T8	Síntoma 1067 1079	uretrorragia
+R1	Implicado_en Arg1:T1 Arg2:T5
+R2	Implicado_en Arg1:T2 Arg2:T5
+R3	Implicado_en Arg1:T3 Arg2:T5
+R4	Implicado_en Arg1:T4 Arg2:T5
+R5	Implicado_en Arg1:T4 Arg2:T6

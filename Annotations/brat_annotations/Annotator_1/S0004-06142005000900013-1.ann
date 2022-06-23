@@ -1,0 +1,21 @@
+T1	Enfermedad 169 179	tumoración
+T2	Síntoma 286 310	sintomatología miccional
+T3	Enfermedad 777 787	tumoración
+T4	Enfermedad 1046 1056	tumoración
+T5	Enfermedad 987 1004	leiomioma vesical
+T6	Enfermedad 1155 1173	adenoma prostático
+T7	Proteína 1475 1500	actina músculo específica
+T8	Proteína 1475 1481	actina
+T9	Signo 1647 1661	placa calcárea
+T10	Signo 1725 1747	cistopatía incrustante
+T11	Signo 1806 1827	restos leiomiomatosos
+T12	Signo 1830 1852	acidificación urinaria
+R1	Implicado_en Arg1:T5 Arg2:T3
+R2	Implicado_en Arg1:T2 Arg2:T5
+R3	Implicado_en Arg1:T6 Arg2:T3
+R4	Implicado_en Arg1:T7 Arg2:T5
+R5	Implicado_en Arg1:T8 Arg2:T5
+R6	Implicado_en Arg1:T9 Arg2:T5
+R7	Implicado_en Arg1:T10 Arg2:T5
+R8	Implicado_en Arg1:T11 Arg2:T5
+R9	Implicado_en Arg1:T12 Arg2:T5

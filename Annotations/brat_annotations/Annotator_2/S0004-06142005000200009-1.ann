@@ -1,0 +1,8 @@
+T1	Enfermedad 779 801	ADK próstata Gleason 6
+T2	Proteína 84 87	PSA
+T3	Proteína 294 297	PSA
+T4	Glúcido 532 538	colina
+T5	Glúcido 581 588	citrato
+R1	Implicado_en Arg1:T3 Arg2:T1
+R2	Implicado_en Arg1:T4 Arg2:T1
+R3	Implicado_en Arg1:T5 Arg2:T1

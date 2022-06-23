@@ -1,0 +1,13 @@
+T1	Enfermedad 221 230	Dupuytren
+T2	Enfermedad 280 305	Diabetes Mellitus tipo II
+T3	Enfermedad 307 326	hipercolesterolemia
+T4	Enfermedad 329 342	hiperuricemia
+T5	Enfermedad 685 704	adenoma de próstata
+T6	Proteína 968 971	PSA
+T7	Enfermedad 1907 1948	carcinoma urotelial superficial de vejiga
+T8	Enfermedad 1907 1916	carcinoma
+T9	Signo 444 466	hematuria macroscópica
+T10	Signo 498 524	microhematuria persistente
+T11	Lípido 907 920	triglicéridos
+T12	Signo 1260 1286	quistes corticales simples
+R1	Implicado_en Arg1:T6 Arg2:T5

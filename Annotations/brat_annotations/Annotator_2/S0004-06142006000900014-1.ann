@@ -1,0 +1,12 @@
+T1	Síntoma 91 98	astenia
+T2	Enfermedad 100 108	anorexia
+T3	Síntoma 111 123	dolor lumbar
+T4	Signo 192 198	fiebre
+T5	Enfermedad 280 301	fibrilación auricular
+T6	Signo 629 635	anemia
+T7	Signo 728 737	hematuria
+T8	Enfermedad 1156 1167	pionefrosis
+T9	Medicamento 1411 1425	antibioterapia
+T10	Enfermedad 2241 2255	adenocarcinoma
+T11	Enfermedad 2381 2395	adenocarcinoma
+R1	Alivia Arg1:T9 Arg2:T8

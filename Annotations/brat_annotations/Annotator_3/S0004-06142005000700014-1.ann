@@ -1,0 +1,28 @@
+T1	Enfermedad 486 496	brucelosis
+T2	Glúcido 1750 1757	Glucosa
+T3	Proteína 1878 1896	fosfatasa alcalina
+T4	Medicamento 2723 2734	Doxiciclina
+T5	Medicamento 2787 2801	Estreptomicina
+T6	Proteína 1842 1845	GOT
+T7	Proteína 1854 1857	GPT
+T8	Proteína 1866 1869	GGT
+T9	Signo 2500 2513	microabscesos
+T10	Signo 2537 2554	orquiepididimitis
+T11	Medicamento 2614 2626	antitérmicos
+T12	Medicamento 2628 2645	antiinflamatorios
+T13	Síntoma 78 102	dolores osteoarticulares
+T14	Signo 147 153	fiebre
+T15	Proteína 1784 1794	creatinina
+R1	Cura Arg1:T4 Arg2:T1
+R2	Cura Arg1:T5 Arg2:T1
+R3	Alivia Arg1:T12 Arg2:T10
+R4	Implicado_en Arg1:T14 Arg2:T1
+R5	Implicado_en Arg1:T13 Arg2:T1
+R6	Alivia Arg1:T11 Arg2:T14
+R7	Implicado_en Arg1:T2 Arg2:T1
+R8	Implicado_en Arg1:T6 Arg2:T1
+R9	Implicado_en Arg1:T7 Arg2:T1
+R10	Implicado_en Arg1:T8 Arg2:T1
+R11	Implicado_en Arg1:T3 Arg2:T1
+R12	Implicado_en Arg1:T10 Arg2:T1
+R13	Implicado_en Arg1:T9 Arg2:T1

@@ -1,0 +1,19 @@
+T1	Síntoma 67 78	polaquiuria
+T2	Síntoma 80 97	escozor miccional
+T3	Síntoma 99 106	tenesmo
+T4	Síntoma 109 118	hematuria
+T5	Signo 460 482	lesiones sobreelevadas
+T6	Signo 555 574	lesión inflamatoria
+T7	Medicamento 604 612	A.I.N.E.
+T8	Sigla 714 717	RTU
+T9	Enfermedad 789 806	leiomioma vesical
+T10	Proteína 1104 1126	actina de músculo liso
+T11	Proteína 1104 1110	actina
+R1	Implicado_en Arg1:T1 Arg2:T9
+R2	Implicado_en Arg1:T2 Arg2:T9
+R3	Implicado_en Arg1:T3 Arg2:T9
+R4	Implicado_en Arg1:T4 Arg2:T9
+R5	Implicado_en Arg1:T5 Arg2:T9
+R6	Implicado_en Arg1:T11 Arg2:T9
+R7	Implicado_en Arg1:T10 Arg2:T9
+R8	Alivia Arg1:T7 Arg2:T6

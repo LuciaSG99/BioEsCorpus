@@ -1,0 +1,1 @@
+TextAE is released under [MIT license](http://opensource.org/licenses/MIT).

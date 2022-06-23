@@ -1,0 +1,21 @@
+T1	Enfermedad 55 73	síndrome depresivo
+T2	Enfermedad 76 87	prostatismo
+T3	Enfermedad 143 161	carcinoma de colon
+T4	Enfermedad 412 435	adenocarcinoma de colon
+T5	Proteína 806 816	creatinina
+T6	Proteína 873 876	PSA
+T7	Proteína 896 924	Antígeno Carcino Embrionario
+T8	Sigla 926 929	CEA
+T9	Sigla 960 963	TAC
+T10	Enfermedad 1038 1056	carcinoma de colon
+T11	Enfermedad 2521 2535	adenocarcinoma
+T13	Enfermedad 412 426	adenocarcinoma
+T14	Enfermedad 3047 3078	metástasis de un adenocarcinoma
+T15	Enfermedad 3064 3078	adenocarcinoma
+T16	Medicamento 3387 3400	quimioterapia
+T17	Sigla 3452 3455	TAC
+T18	Sigla 3574 3577	CEA
+T19	Sigla 3641 3644	TAC
+R1	Refiere_a Arg1:T8 Arg2:T7
+R2	Alivia Arg1:T16 Arg2:T14
+R3	Refiere_a Arg1:T18 Arg2:T7

@@ -1,0 +1,28 @@
+T1	Enfermedad 163 180	cirrosis hepática
+T2	Enfermedad 366 381	hepatocarcinoma
+T3	Enfermedad 234 237	HDA
+T4	Enfermedad 251 278	varices esofágicas grado II
+T5	Medicamento 506 516	tacrolimus
+T6	Signo 584 593	debilidad
+T7	Enfermedad 700 710	paraplejia
+T8	Signo 619 642	pérdida de sensibilidad
+T9	Sigla 829 833	EEII
+T10	Sigla 866 869	EID
+T11	Sigla 942 945	EID
+T12	Sigla 976 979	ROT
+T13	Sigla 1040 1043	RCP
+T14	Sigla 1135 1138	RMN
+T15	Sigla 1385 1389	PEES
+T16	Sigla 1435 1438	LCR
+T17	Enfermedad 1470 1476	HTLV-I
+T18	Sigla 1541 1546	ELISA
+T19	Enfermedad 1575 1581	HTLV-I
+T20	Enfermedad 1627 1657	paraparesia espástica tropical
+T21	Medicamento 1672 1682	Interferón
+T22	Sigla 1759 1763	EEII
+T23	Proteína 1854 1867	transaminasas
+T24	Enfermedad 787 798	paraparesia
+R1	Cura Arg1:T21 Arg2:T20
+R2	Interacciona_con Arg1:T21 Arg2:T23
+R3	Implicado_en Arg1:T19 Arg2:T20
+R4	Implicado_en Arg1:T17 Arg2:T20

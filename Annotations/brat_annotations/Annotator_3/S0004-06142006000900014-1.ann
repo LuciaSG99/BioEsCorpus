@@ -1,0 +1,15 @@
+T1	Enfermedad 91 98	astenia
+T2	Enfermedad 100 108	anorexia
+T3	Síntoma 111 123	dolor lumbar
+T4	Signo 192 198	fiebre
+T5	Enfermedad 246 268	insuficiencia cardiaca
+T6	Enfermedad 280 301	fibrilación auricular
+T7	Enfermedad 578 588	leucitosis
+T8	Enfermedad 629 660	anemia normocítica normocrómica
+T9	Enfermedad 629 635	anemia
+T10	Enfermedad 715 725	leucituria
+T11	Enfermedad 728 737	hematuria
+T12	Enfermedad 1156 1167	pionefrosis
+T13	Enfermedad 2241 2255	adenocarcinoma
+T14	Enfermedad 2381 2414	adenocarcinoma de tipo intestinal
+T15	Enfermedad 2854 2874	metaplasia glandular

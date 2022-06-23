@@ -1,0 +1,19 @@
+T1	Signo 114 134	masa inguinoescrotal
+T2	Síntoma 145 168	dolorosa a la palpación
+T3	Síntoma 200 215	pérdida de peso
+T4	Síntoma 219 237	síndrome miccional
+T5	Sigla 408 410	CT
+T6	Enfermedad 588 608	tumor paratesticular
+T8	Enfermedad 896 946	rabdomiosarcoma pleomórfico del cordón espermático
+T9	Enfermedad 896 911	rabdomiosarcoma
+T10	Medicamento 1093 1104	adriamicina
+T11	Medicamento 1107 1117	ifosfamida
+T12	Medicamento 1120 1125	MESNA
+R1	Implicado_en Arg1:T1 Arg2:T8
+R2	Implicado_en Arg1:T2 Arg2:T8
+R3	Implicado_en Arg1:T2 Arg2:T6
+R4	Implicado_en Arg1:T1 Arg2:T6
+R5	Cura Arg1:T10 Arg2:T8
+R6	Cura Arg1:T11 Arg2:T8
+R7	Cura Arg1:T12 Arg2:T8
+R8	Implicado_en Arg1:T8 Arg2:T9

@@ -1,0 +1,7 @@
+T1	Síntoma 114 153	masa inguinoescrotal izquierda dolorosa
+T2	Síntoma 219 237	síndrome miccional
+T3	Sigla 408 410	CT
+T4	Enfermedad 588 608	tumor paratesticular
+T5	Enfermedad 896 923	rabdomiosarcoma pleomórfico
+T6	Medicamento 1093 1125	adriamicina e ifosfamida + MESNA
+R1	Cura Arg1:T6 Arg2:T5

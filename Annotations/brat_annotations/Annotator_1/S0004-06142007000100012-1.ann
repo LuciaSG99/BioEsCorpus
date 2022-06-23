@@ -1,0 +1,24 @@
+T1	Sigla 468 472	VDRL
+T2	Sigla 482 485	VIH
+T3	Signo 550 583	apéndices auriculares bilaterales
+T4	Signo 647 660	micrognatismo
+T5	Enfermedad 626 645	granulomas cutáneos
+T6	Enfermedad 688 696	coloboma
+T7	Enfermedad 730 750	tumefacción escrotal
+T8	Enfermedad 923 932	urosepsis
+T9	Medicamento 1081 1091	ampicilina
+T10	Medicamento 1093 1104	gentamicina
+T11	Medicamento 1107 1117	cefotaxima
+T12	Signo 1171 1192	uretero-hidronefrosis
+T13	Signo 1234 1254	tumefacción escrotal
+T14	Signo 1491 1524	dilatación de la uretra posterior
+T15	Enfermedad 2083 2105	infección respiratoria
+T16	Enfermedad 2124 2137	bronquiolitis
+T17	Medicamento 2269 2295	trimetroprim-sufametoxazol
+T18	Sigla 2397 2400	MAG
+T19	Enfermedad 2773 2788	bifidez piélica
+R1	Cura Arg1:T9 Arg2:T8
+R2	Cura Arg1:T10 Arg2:T8
+R3	Cura Arg1:T11 Arg2:T8
+R4	Cura Arg1:T17 Arg2:T15
+R5	Cura Arg1:T17 Arg2:T16

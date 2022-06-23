@@ -1,0 +1,15 @@
+T1	Enfermedad 29 35	hernia
+T2	Enfermedad 321 331	hematurias
+T3	Signo 335 341	fiebre
+T4	Medicamento 462 474	antisépticos
+T5	Síntoma 217 223	algias
+T6	Sigla 1336 1339	TAC
+T7	Sigla 1444 1447	TAC
+T8	Sigla 1929 1932	RTU
+T9	Enfermedad 1391 1410	formación ecogénica
+T10	Enfermedad 1689 1702	endometriosis
+T11	Enfermedad 937 950	endometriosis
+T12	Enfermedad 2346 2359	endometriosis
+T13	Medicamento 2405 2422	análogos de LH-RH
+T14	Sigla 2417 2422	LH-RH
+R1	Cura Arg1:T13 Arg2:T12

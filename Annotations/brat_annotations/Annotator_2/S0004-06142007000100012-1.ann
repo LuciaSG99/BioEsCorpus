@@ -1,0 +1,27 @@
+T1	Alias 468 472	VDRL
+T2	Alias 474 480	AntHBs
+T3	Abreviatura 482 485	VIH
+T4	Enfermedad 497 520	Toxoplasmosis no inmune
+T5	Enfermedad 497 510	Toxoplasmosis
+T6	Enfermedad 523 537	rubéola inmune
+T7	Enfermedad 523 530	rubéola
+T8	Enfermedad 923 932	urosepsis
+T9	Medicamento 1081 1091	ampicilina
+T10	Medicamento 1093 1104	gentamicina
+T11	Medicamento 1107 1117	cefotaxima
+T12	Enfermedad 2124 2137	bronquiolitis
+T13	Enfermedad 2083 2105	infección respiratoria
+T14	Medicamento 2269 2295	trimetroprim-sufametoxazol
+T15	Alias 2397 2402	MAG-3
+T16	Medicamento 2415 2425	furosemida
+T17	Medicamento 2670 2680	furosemida
+T18	Enfermedad 2773 2788	bifidez piélica
+T19	Signo 2709 2760	dilataciones ureterales bilaterales no obstructivos
+T20	Signo 2921 2929	diuresis
+T21	Signo 2016 2024	diuresis
+T22	Enfermedad 180 192	hipertensión
+T23	Signo 626 645	granulomas cutáneos
+T24	Signo 647 660	micrognatismo
+R1	Alivia Arg1:T9 Arg2:T8
+R2	Alivia Arg1:T11 Arg2:T8
+R3	Alivia Arg1:T10 Arg2:T8

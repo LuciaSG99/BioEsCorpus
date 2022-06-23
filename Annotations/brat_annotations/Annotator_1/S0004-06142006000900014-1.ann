@@ -1,0 +1,31 @@
+T1	Síntoma 91 98	astenia
+T2	Síntoma 100 108	anorexia
+T3	Síntoma 111 123	dolor lumbar
+T4	Signo 192 198	fiebre
+T5	Enfermedad 246 268	insuficiencia cardiaca
+T6	Enfermedad 280 301	fibrilación auricular
+T7	Signo 381 401	dolor a la palpación
+T8	Signo 504 517	masa palpable
+T9	Signo 520 541	Murphy renal positivo
+T10	Signo 578 588	leucitosis
+T11	Signo 629 660	anemia normocítica normocrómica
+T12	Signo 629 635	anemia
+T13	Signo 715 725	leucituria
+T14	Signo 728 750	hematuria microscópica
+T15	Signo 812 831	cálculos radiopacos
+T16	Signo 1063 1085	formaciones litiásicas
+T17	Enfermedad 1156 1167	pionefrosis
+T18	Signo 1764 1799	dilatación del árbol pielo-calicial
+T19	Signo 1988 2023	abcedificación del parénquima renal
+T20	Enfermedad 2241 2255	adenocarcinoma
+T21	Enfermedad 2381 2414	adenocarcinoma de tipo intestinal
+T22	Signo 2854 2897	metaplasia glandular del epitelio urotelial
+R1	Implicado_en Arg1:T22 Arg2:T21
+R2	Implicado_en Arg1:T19 Arg2:T20
+R3	Implicado_en Arg1:T13 Arg2:T17
+R4	Implicado_en Arg1:T14 Arg2:T17
+R5	Implicado_en Arg1:T10 Arg2:T17
+R6	Implicado_en Arg1:T7 Arg2:T20
+R7	Implicado_en Arg1:T8 Arg2:T20
+R8	Implicado_en Arg1:T15 Arg2:T16
+R9	Implicado_en Arg1:T4 Arg2:T17

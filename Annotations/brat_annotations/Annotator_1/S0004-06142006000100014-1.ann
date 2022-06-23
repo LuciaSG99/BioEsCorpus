@@ -1,0 +1,46 @@
+T1	Enfermedad 97 120	adenocarcinoma gástrico
+T2	Enfermedad 97 111	adenocarcinoma
+T3	Signo 140 161	hipertensión arterial
+T4	Medicamento 181 196	espironolactona
+T5	Signo 312 320	anorexia
+T6	Signo 377 395	anemia hipocrómica
+T7	Síntoma 398 411	estreñimiento
+T9	Enfermedad 586 609	adenocarcinoma gástrico
+T10	Signo 459 469	tumoración
+T11	Signo 621 649	deterioro del estado general
+T12	Síntoma 654 667	estreñimiento
+T13	Signo 673 679	anemia
+T14	Enfermedad 723 730	ascitis
+T15	Enfermedad 735 749	carcinomatosis
+T16	Enfermedad 751 781	obstrucción intestinal tumoral
+T17	Enfermedad 784 804	tumoración abdominal
+T18	Proteína 842 853	hemoglobina
+T19	Sigla 912 915	VCM
+T20	Sigla 922 925	RDW
+T21	Sigla 930 933	VSG
+T22	Proteína 943 946	PCR
+T23	Proteína 952 955	PSA
+T24	Proteína 967 977	creatinina
+T25	Signo 1090 1109	pólipo inflamatorio
+T26	Signo 1335 1354	tumoración quística
+T27	Signo 1591 1632	lesión quística voluminosa intraabdominal
+T28	Sigla 1923 1926	TAC
+T29	Signo 1945 1958	masa quística
+T30	Enfermedad 2269 2290	hidronefrosis gigante
+T31	Enfermedad 2304 2334	uropatía obstructiva litiásica
+T32	Signo 2901 2923	atrofia parenquimatosa
+T33	Enfermedad 3271 3317	carcinoma de células renales tipo célula clara
+T34	Signo 3377 3397	metástasis hepáticas
+T35	Enfermedad 3271 3280	carcinoma
+R1	Cura Arg1:T4 Arg2:T3
+R2	Implicado_en Arg1:T5 Arg2:T33
+R3	Implicado_en Arg1:T32 Arg2:T33
+R4	Implicado_en Arg1:T34 Arg2:T33
+R5	Implicado_en Arg1:T31 Arg2:T33
+R6	Implicado_en Arg1:T30 Arg2:T33
+R7	Implicado_en Arg1:T29 Arg2:T33
+R8	Implicado_en Arg1:T27 Arg2:T33
+R9	Implicado_en Arg1:T26 Arg2:T33
+R10	Implicado_en Arg1:T25 Arg2:T33
+R11	Implicado_en Arg1:T12 Arg2:T13
+R12	Implicado_en Arg1:T11 Arg2:T33

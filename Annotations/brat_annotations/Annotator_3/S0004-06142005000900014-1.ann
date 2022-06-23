@@ -1,0 +1,18 @@
+T1	Medicamento 604 612	A.I.N.E.
+T2	Enfermedad 789 798	leiomioma
+T3	Signo 67 78	polaquiuria
+T4	Síntoma 80 97	escozor miccional
+T5	Síntoma 99 106	tenesmo
+T6	Signo 109 118	hematuria
+T7	Enfermedad 555 574	lesión inflamatoria
+T8	Proteína 1104 1126	actina de músculo liso
+R1	Cura Arg1:T1 Arg2:T7
+R2	Implicado_en Arg1:T8 Arg2:T2
+R3	Implicado_en Arg1:T3 Arg2:T7
+R4	Implicado_en Arg1:T4 Arg2:T7
+R5	Implicado_en Arg1:T5 Arg2:T7
+R6	Implicado_en Arg1:T6 Arg2:T7
+R7	Implicado_en Arg1:T3 Arg2:T2
+R8	Implicado_en Arg1:T4 Arg2:T2
+R9	Implicado_en Arg1:T5 Arg2:T2
+R10	Implicado_en Arg1:T6 Arg2:T2

@@ -1,0 +1,27 @@
+T1	Enfermedad 144 169	patología heredo-familiar
+T2	Enfermedad 180 192	hipertensión
+T3	Sigla 468 472	VDRL
+T4	Proteína 474 480	AntHBs
+T5	Enfermedad 482 485	VIH
+T6	Enfermedad 497 510	Toxoplasmosis
+T7	Enfermedad 523 530	rubéola
+T8	Signo 626 645	granulomas cutáneos
+T9	Enfermedad 730 750	tumefacción escrotal
+T10	Enfermedad 923 932	urosepsis
+T11	Medicamento 1081 1091	ampicilina
+T12	Medicamento 1093 1104	gentamicina
+T13	Medicamento 1107 1117	cefotaxima
+T14	Enfermedad 1171 1202	uretero-hidronefrosis bilateral
+T15	Enfermedad 1234 1254	tumefacción escrotal
+T16	Enfermedad 2083 2105	infección respiratoria
+T17	Enfermedad 2124 2137	bronquiolitis
+T18	Medicamento 2207 2221	antibioterapia
+T20	Medicamento 2269 2295	trimetroprim-sufametoxazol
+T21	Sigla 2397 2402	MAG-3
+R1	Cura Arg1:T18 Arg2:T16
+R2	Cura Arg1:T20 Arg2:T16
+R3	Cura Arg1:T18 Arg2:T17
+R4	Cura Arg1:T20 Arg2:T17
+R5	Cura Arg1:T11 Arg2:T10
+R6	Cura Arg1:T12 Arg2:T10
+R7	Cura Arg1:T13 Arg2:T10
