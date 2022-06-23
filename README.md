@@ -25,4 +25,7 @@ Content:
 1) Corpus_annotation: folder with the scripts used to annotated the corpus. Language programming: Python. 
 2) Systematic_Review: folder with the scripts used to performed the Inclusion-Exclusion filtering step in the Systematic Review. Language programming: R.
 
+- all_terms_per_file: 18 lists, each one contains all the terms annotated by all the annotators for each file.
+- all_rels_per_file: 18 lists, each one contains all the relations annotated by all the annotators for each file.
+
 These resources are freely distributed under a Creative Commons Attribution 4.0 International License.
